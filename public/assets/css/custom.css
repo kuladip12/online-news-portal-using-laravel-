@@ -1,0 +1,69 @@
+
+.bg-green{
+    background-color: #4e9deb !important;
+}
+
+.navbar{
+    padding: 0px 0px !important;
+}
+
+
+    .navbar-nav .nav-link{
+        color: rgb(161, 232, 227) ;
+        font-weight: 600;
+        border-right: 0px solid;
+        padding: 8px 18px;
+}
+
+.card-shadow{
+    box-shadow:0 2px 8px 0 rgba(250, 232, 232, 0.1);
+    border-radius: 5px;
+}
+.category-heading{
+    padding:10px 12px;
+    border-left: 6px solid #000;
+    background-color:#97b2d7;
+}
+.post-heading{
+    font-size:26px;
+    color:#000;
+}
+.post-description {
+    overflow-y: scroll;
+    Scrollbar-width:none;
+}
+
+.post-code-bg {
+    Width:fit-content;
+    min-width:100%;
+    background-color:#212121 !important;
+    width:100% !important;
+    overflow-x:scroll !important;
+    position:relative;
+    padding:1rem 1rem;
+    margin-bottom:1rem;
+    border:1px solid transparent;
+    border-radius:0.25rem;
+}
+
+/* body{
+    background-image: url('public/img/news-500x280-4.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+} */
+
+.bg{
+    background-image: url('https://wallpapercave.com/wp/wp2568544.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+
+.auth{
+    width: 500px;
+    margin-top: 10rem;
+    margin-left: auto;
+    margin-right: auto;
+    /* margin-bottom: 60%; */
+    /* align-items: center; */
+}
